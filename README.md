@@ -1,4 +1,4 @@
-<!--
+!--
 ### Hi there 👋
 
 
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<![MasterHead](https://cdn.pixabay.com/photo/2020/08/17/14/23/computer-5495557_1280.jpg)>
+<![MasterHead](https://i.pinimg.com/originals/d3/01/fd/d301fdc8f718cc4e956c6456eb2af1ee.gif)>
 <h1 align="center">Hi 👋, I'm Mohammed Iftekhar</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 <img align=“right” alt=“coding” width=“400” src=“https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/d5dccb5d5818cba2c8fa0cb15fb578b3.gif”>
